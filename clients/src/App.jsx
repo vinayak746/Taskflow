@@ -4,7 +4,7 @@ import Tasks from "./pages/Tasks";
 import Users from "./pages/Users";
 import TaskDetails from "./pages/TaskDetails";
 import Login from "./pages/Login";
-import Toaster from "sonner";
+import { Toaster } from "sonner";
 import Trash from "./pages/Trash";
 
 function Layout() {
